@@ -1,1 +1,1 @@
-# Reinforcement-Ad-Campaing-Optimization
+# Reinforcement-Learning-Ad-Campaing-Optimization
